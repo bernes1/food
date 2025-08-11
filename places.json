@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Bastard burger",
+        "food_type": "burger",
+        "category": "greasy",
+        "distance": 0,
+        "tag": {}
+    },
+    {
+        "id": 2,
+        "name": "digg",
+        "food_type": "pizza",
+        "category": "greasy",
+        "distance": 0,
+        "tag": {}
+    },
+    {
+        "id": 3,
+        "name": "Fredd fuego",
+        "food_type": "burito",
+        "category": "notgreasy",
+        "distance": 0,
+        "tag": {}
+    },
+    {
+        "id": 4,
+        "name": "burger king",
+        "food_type": "burger",
+        "category": "notgreasy",
+        "distance": 0,
+        "tag": {}
+    },
+    {
+        "id": 5,
+        "name": "Masala politics",
+        "food_type": "Indian",
+        "category": "heavy",
+        "distance": 0,
+        "tag": {}
+    },
+    {
+        "id": 6,
+        "name": "Gohan Matcha",
+        "food_type": "japanese curry",
+        "category": "notgreasy",
+        "distance": 0,
+        "tag": {}
+    }
+]
